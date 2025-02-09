@@ -1,0 +1,7 @@
+PowershellからRESTなリクエストでatdを叩いてIRCにPOSTする感じの諸々
+
+クライアント側はPowershellだけあれば、
+
+サーバ側はNodejsとatdとnetcatがあれば動くはず
+
+IRCサーバは別途用意してください
